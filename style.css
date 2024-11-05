@@ -1,0 +1,92 @@
+body{
+background-color: #E5E5E5; 
+}
+
+a.button {
+position: absolute;
+padding: 20px;
+left: 307px;
+top: 524px;
+margin: 20px;
+text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+color: #720026;
+background: #CCFF94;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+
+h1.z{
+position: absolute;
+width: 349px;
+height: 89px;
+left: 374px;
+top: 163px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 79px;
+
+color: #720026;
+}
+
+h2.t{
+position: absolute;
+width: 681px;
+height: 111px;
+left: 208px;
+top: 320px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #720026;
+}
+
+h3.m{
+position: absolute;
+width: 202px;
+height: 30px;
+left:  448px;
+top: 444px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: center;
+
+color: #720026
+}
+
+img.i{
+
+position: absolute;
+width: 483px;
+height: 256px;
+left: 283px;
+top: 0px;
+}
+
+img.i1{
+position: absolute;
+width: 474.45px;
+height: 474.45px;
+left: 733.96px;
+top: 155px;
+transform: rotate(5.07deg);
+}
